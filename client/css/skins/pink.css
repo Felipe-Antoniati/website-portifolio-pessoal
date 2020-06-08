@@ -1,0 +1,42 @@
+/* .aside .logo a::before{
+  border-left: 4px solid #ec1839;
+  border-top: 4px solid #ec1839; 
+}
+.aside .logo a::after{
+  border-right: 4px solid #ec1839;
+  border-bottom: 4px solid #ec1839; 
+} */
+
+.contact .contact-info-item .icon .fa ,
+.lightbox .lightbox-controls .prev-item .fa, 
+.lightbox .lightbox-controls .next-item .fa,
+.portifolios .portifolio-item .portifolio-info .icon .fa,
+.services .services-item .service-item-inner .icon .fa ,
+body.dark .portifolios .portifolio-filter button.active,
+.portifolios .portifolio-filter button.active,
+.about .about-content .about-text h3 span, 
+body.dark .aside .nav li a:hover,
+body.dark .aside .nav li a.active,
+.aside .nav li a:hover,
+.aside .nav li a.active {
+  color:  #ec1839;  
+}
+
+
+.section-title h2::before,
+.section-title h2::after {
+  background-color: #ec1839;
+}
+
+.btn,
+.about .about-content .skills-info .skills-item .progress .progress-in,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a  {
+  background-color: #ec1839;
+}
+
+.portifolios .portifolio-filter button.active {
+  border-color: #ec1839;
+}
